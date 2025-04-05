@@ -66,7 +66,6 @@ _Screenshots of city list view and forecast detail here._
 
 ```markdown
 ![City View](./media/city_view.png)
-![Forecast View](./media/forecast_view.png)
 ```
 
 ---
