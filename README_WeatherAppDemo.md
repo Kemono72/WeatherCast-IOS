@@ -1,11 +1,12 @@
-# WeatherAppDemo 🌤️
+# WeatherCast 🌤️
 
-An iOS weather app built using **UIKit**, fetching real-time weather data and 5-day forecasts using the **OpenWeather13 API (via RapidAPI)**. The app supports city search with autocomplete, displays current weather, and provides a clean forecast interface using custom Collection and Table View Cells.
+An iOS weather app built using **UIKit**, fetching real-time weather data and 5-day forecasts using the **OpenWeather13 API (via RapidAPI)**. <br>
+The app supports city search with autocomplete, displays current weather and provides a clean forecast interface using custom Collection and Table View Cells.
 
 ## 📱 Features
 
 - 🌆 Search cities with live autocomplete (GeoBytes API)
-- 📡 Get current weather with temperature, condition, and icon
+- 📡 Get current weather with temperature, condition and icon
 - 📍 Fetch 5-day forecast using city’s latitude and longitude
 - 🧩 Custom collection view for saved cities
 - 📅 Table view with forecast (formatted date + temp)
@@ -61,8 +62,7 @@ WeatherAppDemo/
 
 ## 📸 Screenshots (Optional)
 
-_You can include screenshots of city list view and forecast detail here._  
-_Add them in a `/media` folder and reference like below:_
+_Screenshots of city list view and forecast detail here._  
 
 ```markdown
 ![City View](./media/city_view.png)
@@ -70,5 +70,3 @@ _Add them in a `/media` folder and reference like below:_
 ```
 
 ---
-
-🧑‍💻 Created by **Kemono** – where logic meets late nights ☕
