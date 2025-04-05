@@ -62,10 +62,10 @@ WeatherAppDemo/
 
 ## 📸 Screenshots
 
-_Screenshots of city list view and forecast detail here._  
+_Screenshots of city list view and forecast detail here._
 
-```markdown
-![City View](./media/city_view.png)
-```
+### 🌆 City View
+![City View](media/city_view.png)
+
 
 ---
