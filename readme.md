@@ -60,7 +60,7 @@ WeatherAppDemo/
 - `GET /city/{city},{country}` - Get current weather + lat/lon
 - `GET /city/fivedaysforcast/{lat}/{lon}` - Get 5-day forecast
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 _Screenshots of city list view and forecast detail here._  
 
